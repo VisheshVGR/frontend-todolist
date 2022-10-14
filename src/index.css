@@ -1,16 +1,4 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+/* Removed Extra code from index.css file that was pre-written by react ... */
 
 *{
   margin: 0;
@@ -60,7 +48,7 @@ h1{
   min-height: 192px;
 }
 
-@media only screen and (max-width: 600px), (orientation:landscape) and (max-height : 70 0px){
+@media only screen and (max-width: 600px), (orientation:landscape) and (max-height : 700px){
   .ToDo{
     width: 100%;
     height: 100%;

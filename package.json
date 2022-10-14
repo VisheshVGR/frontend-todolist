@@ -9,7 +9,7 @@
     "@testing-library/user-event": "^12.8.3",
     "bootstrap": "^5.0.0",
     "react": "^17.0.2",
-    "react-bootstrap": "^1.5.2",
+    "react-bootstrap": "^1.5.2", 
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2"
@@ -37,5 +37,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pramesh-kumar/frontend-todolist.git"
+  },
+  "author": "vishesh/pramesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pramesh-kumar/frontend-todolist/issues"
+  },
+  "homepage": "https://github.com/pramesh-kumar/frontend-todolist#readme"
 }
+ 
