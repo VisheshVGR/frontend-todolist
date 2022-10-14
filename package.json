@@ -37,18 +37,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/pramesh-kumar/frontend-todolist.git"
-  },
-  "author": "vishesh/pramesh",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/pramesh-kumar/frontend-todolist/issues"
-  },
-  "homepage": "https://github.com/pramesh-kumar/frontend-todolist#readme"
+  }
 }
  
